@@ -10,11 +10,11 @@ var username = $("#username").val();
             }
 alert (" uname ")
             if ( password == "") {
-                alert("Please enter the password.");
+                alert("Please eenter the password.");
                 return false;
             }
 if (username == "gbs" && password == "gbs"){
-            alert('Login successful');
+            alert('Login successfful');
 }
 }
 });
