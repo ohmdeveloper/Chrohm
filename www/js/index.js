@@ -14,7 +14,7 @@ alert (" uname ")
                 return false;
             }
 if (username == "gbs" && password == "gbs"){
-            alert('Login successful');
+            alert('Login successfull');
 }
 }
 });
