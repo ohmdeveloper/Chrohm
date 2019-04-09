@@ -16,5 +16,5 @@ alert (" uname ")
 if (username == "gbs" && password == "gbs"){
             alert('Login successfful');
 }
-}
+});
 });
