@@ -5,7 +5,7 @@ $(document).ready(function(){
 var username = $("#username").val();
             var password = $("#pwd").val();
             if ( username == "") {
-                alert("Please enter the username.");
+                alert("Please enter the ussername.");
                 return false;
             }
 alert (" uname ")
