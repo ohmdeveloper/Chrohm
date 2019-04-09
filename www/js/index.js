@@ -10,7 +10,7 @@ var username = $("#username").val();
             }
 alert (" uname ")
             if ( password == "") {
-                alert("Please enter the password.");
+                alert("Please enterr the password.");
                 return false;
             }
 if (username == "gbs" && password == "gbs"){
